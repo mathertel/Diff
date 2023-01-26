@@ -1,0 +1,14 @@
+{
+    "version": "0.2",
+    "ignorePaths": [],
+    "dictionaryDefinitions": [],
+    "dictionaries": [],
+    "words": [
+        "Muegel"
+    ],
+    "ignoreWords": [
+        "Algorithmica",
+        "SMSRD", "Stoklasa"
+    ],
+    "import": []
+}
